@@ -1,0 +1,18 @@
+HTTP/1.1 304 Not Modified
+Last-Modified: Tue, 03 Jun 2014 13:32:46 GMT
+Accept-Ranges: bytes
+ETag: "a2e6a4e307fcf1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Y-Booking-Node: STOSPWE04
+Date: Tue, 17 Jun 2014 10:58:59 GMT
+Connection: close
+Vary: Accept-Encoding
+Content-Length: 0
+X-Q-S: 304000677000671000000
+X-M-V: 5.1.69
+X-M-T: 002029000009000008000012002000
+X-S-V: local/MOOVWEB_POC 
+X-I-V: /
+X-S-C: 
+

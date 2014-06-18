@@ -1,0 +1,46 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=3600
+Content-Type: text/html; charset=UTF-8
+Expires: Tue, 17 Jun 2014 11:55:30 GMT
+Last-Modified: Tue, 17 Jun 2014 10:55:30 GMT
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Y-Booking-Node: STOSPWE04
+Date: Tue, 17 Jun 2014 10:55:30 GMT
+Content-Length: 1913
+Connection: close
+Vary: Accept-Encoding
+X-Q-S: 200000623000599000008
+X-M-V: 5.1.69
+X-M-T: 000981000036000000000000000945
+X-S-V: local/MOOVWEB_POC 
+X-I-V: /
+X-S-C: 
+X-M-P: true
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<option value="0">Samtliga resmål</option>
+<option value="CRS--PMI-d|d_12623" class="level-0">Mallorca (PMI)</option>
+<option value="CRS-PMI-LRO-r|r_34361" class="level-1">  Alaro</option>
+<option value="CRS-PMI-ALC-r|r_4858" class="level-1">  Alcudia</option>
+<option value="CRS-PMI-PAS-r|r_596299" class="level-1">  Ca’n Pastilla</option>
+<option value="CRS-PMI-PIC-r|r_4867" class="level-1">  Ca’n Picafort</option>
+<option value="CRS-PMI-CAL-r|r_4861" class="level-1">  Cala d´Or</option>
+<option value="CRS-PMI-MAY-r|r_4869" class="level-1">  Cala Mayor</option>
+<option value="CRS-PMI-MEQ-r|r_1347809" class="level-1">  Cala Mesquida</option>
+<option value="CRS-PMI-CMI-r|r_4868" class="level-1">  Cala Millor</option>
+<option value="CRS-PMI-ILL-r|r_4862" class="level-1">  Illetas</option>
+<option value="CRS-PMI-PKC-r|r_201145" class="level-1">  Kryss Mallorca Thomson Dream</option>
+<option value="CRS-PMI-PAL-r|r_4859" class="level-1">  Palma de Mallorca</option>
+<option value="CRS-PMI-PLN-r|r_4860" class="level-1">  Palma Nova</option>
+<option value="CRS-PMI-PDP-r|r_4863" class="level-1">  Playa de Palma</option>
+<option value="CRS-PMI-NOU-r|r_183009" class="level-1">  Portals Nous</option>
+<option value="CRS-PMI-PTC-r|r_2231415" class="level-1">  Porto Colom</option>
+<option value="CRS-PMI-NDI-r|r_2231414" class="level-1">  Porto Cristo</option>
+<option value="CRS-PMI-PDS-r|r_4865" class="level-1">  Puerto de Soller</option>
+<option value="CRS-PMI-PPO-r|r_4864" class="level-1">  Puerto Pollenca</option>
+<option value="CRS-PMI-SAC-r|r_46015" class="level-1">  Sa Coma</option>
+<option value="CRS-PMI-PON-r|r_313794" class="level-1">  Santa Ponsa</option>
+<footer class="mw-footer">Powered by Moovweb</footer>
+</body></html>

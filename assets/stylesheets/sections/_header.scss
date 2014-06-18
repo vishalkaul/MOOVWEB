@@ -1,0 +1,68 @@
+header
+{
+	border-top: 10px solid $orange;  
+}
+
+body.resor div#search-form
+{
+	color: #fc0!important;
+}
+
+@media (max-width: 767px) and (min-width: 320px)
+{
+	.hybris-top-navigation .collapsed-menu-icon
+	{
+
+	}
+
+	#epl-slideshow-slides .slides_control img:first-child
+	{
+		width: 100%;
+		height: 100%;
+	}
+	div#module-campaign-page .epl-slideshow-slides_container, div#module-campaign-page .epl-slideshow-slides_container div.slide, div#module-campaign-page #epl-slideshow-container, div#page
+	{
+		width:100%;
+	}
+	div#mcp-right
+	{
+		width: auto;
+	}
+	div#module-campaign-page div.two-column-container div.mcp-image-box
+	{
+		width: 245px;
+	}
+	body.resor .hide-for-mobile
+	{
+		display: none!important;
+	}
+	#footer-menu
+	{
+		width: auto;
+	}
+	#footer-menu .span3
+	{
+		float:none;
+		margin:0 0 10px 30px;
+	}
+	div#mcp-left, div#module-campaign-page div#mcp-left div.mcp-image-box div.mcp-image, div#module-campaign-page div.two-column-container div.mcp-image-box div#mcp-right div.two-column-right,div#module-campaign-page div.two-column-container div.mcp-image-box, div#mcp-right div.two-column-right
+	{
+		width: auto;
+	}
+	div#module-campaign-page div#mcp-left div.mcp-image-box div.mcp-image img
+	{
+		width: 100%;
+	}
+	div#mcp-right div.two-column-left
+	{
+		width: 100%;
+	}
+	div#module-campaign-page div.mcp-image-box
+	{
+		margin-left: 0;
+	}
+	div#module-campaign-page div.two-column-container div.mcp-image-box div.mcp-image a img, div#module-campaign-page div.two-column-container div.mcp-image-box div.mcp-image
+	{
+		width: 100%;
+	}
+}

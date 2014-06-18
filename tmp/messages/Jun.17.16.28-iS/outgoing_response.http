@@ -1,0 +1,17 @@
+HTTP/1.1 304 Not Modified
+Last-Modified: Mon, 09 Jun 2014 08:15:03 GMT
+Accept-Ranges: bytes
+ETag: "755a16eaba83cf1:d4f5"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Tue, 17 Jun 2014 10:58:36 GMT
+Connection: close
+Vary: Accept-Encoding
+Content-Length: 0
+X-Q-S: 304000781000675000002
+X-M-V: 5.1.69
+X-M-T: 005984000119000016000015005834
+X-S-V: local/MOOVWEB_POC 
+X-I-V: /
+X-S-C: 
+

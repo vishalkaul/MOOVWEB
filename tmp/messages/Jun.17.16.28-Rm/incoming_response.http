@@ -1,0 +1,11 @@
+HTTP/1.1 304 Not Modified
+Cache-Control: max-age=86400
+Last-Modified: Tue, 10 Jun 2014 08:19:06 GMT
+Accept-Ranges: bytes
+ETag: "b56c7aa58484cf1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Y-CMS-Node: STOSPWE24
+Date: Tue, 17 Jun 2014 10:58:59 GMT
+Connection: close
+

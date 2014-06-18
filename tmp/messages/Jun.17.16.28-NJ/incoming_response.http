@@ -1,0 +1,10 @@
+HTTP/1.1 304 Not Modified
+Last-Modified: Tue, 03 Jun 2014 13:32:45 GMT
+Accept-Ranges: bytes
+ETag: "b9696b4d307fcf1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Y-Booking-Node: STOSPWE04
+Date: Tue, 17 Jun 2014 10:59:00 GMT
+Connection: close
+

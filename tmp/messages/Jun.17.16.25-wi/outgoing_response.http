@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=600
+Content-Type: application/json; charset=utf-8
+Expires: Tue, 17 Jun 2014 11:05:32 GMT
+Last-Modified: Tue, 17 Jun 2014 10:55:32 GMT
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Y-Booking-Node: STOSPWE04
+Date: Tue, 17 Jun 2014 10:55:32 GMT
+Content-Length: 141
+Connection: close
+Vary: Accept-Encoding
+X-Q-S: 200000593000580000001
+X-M-V: 5.1.69
+X-M-T: 000910000024000000000000000886
+X-S-V: local/MOOVWEB_POC 
+X-I-V: /
+X-S-C: 
+
+jQuery181045130502595566213_1403002279983([{"Period":8,"Name":"1 vecka","Available":true},{"Period":15,"Name":"2 veckor","Available":true}]);

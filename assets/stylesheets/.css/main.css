@@ -1,0 +1,114 @@
+/* line 8, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+[data-ur-toggler-component="content"] {
+  display: none; }
+  /* line 10, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+  [data-ur-toggler-component="content"]:not([data-ur-state]) {
+    display: none; }
+  /* line 13, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+  [data-ur-toggler-component="content"][data-ur-state="enabled"] {
+    display: block; }
+
+/* line 19, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+[data-ur-tabs-component="content"] {
+  display: none; }
+  /* line 21, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+  [data-ur-tabs-component="content"]:not([data-ur-state]) {
+    display: none; }
+  /* line 24, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+  [data-ur-tabs-component="content"][data-ur-state="enabled"] {
+    display: block; }
+
+/* line 30, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+[data-ur-state="hide"] {
+  display: none !important; }
+
+/* line 51, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+[data-ur-carousel-component='view_container'] {
+  width: 100%;
+  overflow-x: hidden; }
+  /* line 41, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+  [data-ur-carousel-component='view_container'] [data-ur-carousel-component="scroll_container"]:not([style]) [data-ur-carousel-component='item'] {
+    visibility: hidden; }
+    /* line 44, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+    [data-ur-carousel-component='view_container'] [data-ur-carousel-component="scroll_container"]:not([style]) [data-ur-carousel-component='item']:nth-of-type(1) {
+      visibility: visible; }
+
+/* line 56, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+[data-ur-carousel-component="scroll_container"] {
+  display: block;
+  clear: both; }
+  /* line 59, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+  [data-ur-carousel-component="scroll_container"] [data-ur-carousel-component="item"] {
+    display: inline-block;
+    float: left; }
+  /* line 63, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+  [data-ur-carousel-component="scroll_container"] img {
+    -webkit-user-drag: none; }
+
+/* line 67, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+[data-ur-carousel-component="dots"] {
+  text-align: center;
+  margin-bottom: 10px; }
+
+/* line 71, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+[data-ur-carousel-component="dot"] {
+  -webkit-border-radius: 7px;
+  border-radius: 7px;
+  background: black;
+  display: inline-block;
+  margin: 0 1px;
+  opacity: 0.8;
+  width: 10px;
+  height: 10px; }
+  /* line 80, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/globals/uranium */
+  [data-ur-carousel-component="dot"][data-ur-state="inactive"] {
+    opacity: 0.3; }
+
+/* line 1, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+header {
+  border-top: 10px solid #fc0; }
+
+/* line 6, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+body.resor div#search-form {
+  color: #fc0 !important; }
+
+@media (max-width: 767px) and (min-width: 320px) {
+  /* line 18, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  #epl-slideshow-slides .slides_control img:first-child {
+    width: 100%;
+    height: 100%; }
+  /* line 23, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  div#module-campaign-page .epl-slideshow-slides_container, div#module-campaign-page .epl-slideshow-slides_container div.slide, div#module-campaign-page #epl-slideshow-container, div#page {
+    width: 100%; }
+  /* line 27, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  div#mcp-right {
+    width: auto; }
+  /* line 31, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  div#module-campaign-page div.two-column-container div.mcp-image-box {
+    width: 245px; }
+  /* line 35, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  body.resor .hide-for-mobile {
+    display: none !important; }
+  /* line 39, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  #footer-menu {
+    width: auto; }
+  /* line 43, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  #footer-menu .span3 {
+    float: none;
+    margin: 0 0 10px 30px; }
+  /* line 48, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  div#mcp-left, div#module-campaign-page div#mcp-left div.mcp-image-box div.mcp-image, div#module-campaign-page div.two-column-container div.mcp-image-box div#mcp-right div.two-column-right, div#module-campaign-page div.two-column-container div.mcp-image-box, div#mcp-right div.two-column-right {
+    width: auto; }
+  /* line 52, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  div#module-campaign-page div#mcp-left div.mcp-image-box div.mcp-image img {
+    width: 100%; }
+  /* line 56, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  div#mcp-right div.two-column-left {
+    width: 100%; }
+  /* line 60, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  div#module-campaign-page div.mcp-image-box {
+    margin-left: 0; }
+  /* line 64, D:\projects\TUI\MOOVWEB\POC\MOOVWEB_POC\assets\stylesheets\/sections/header */
+  div#module-campaign-page div.two-column-container div.mcp-image-box div.mcp-image a img, div#module-campaign-page div.two-column-container div.mcp-image-box div.mcp-image {
+    width: 100%; } }
+

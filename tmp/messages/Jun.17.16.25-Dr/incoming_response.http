@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=3600
+Content-Type: text/html; charset=utf-8
+Expires: Tue, 17 Jun 2014 11:55:30 GMT
+Last-Modified: Tue, 17 Jun 2014 10:55:30 GMT
+Vary: *
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Y-Booking-Node: STOSPWE04
+Date: Tue, 17 Jun 2014 10:55:30 GMT
+Connection: close
+Content-Length: 1864
+
+<option value="0">Samtliga resmål</option>
+<option value="CRS--PMI-d|d_12623" class="level-0">Mallorca (PMI)</option><option value="CRS-PMI-LRO-r|r_34361" class="level-1">&nbsp;&nbsp;Alaro</option><option value="CRS-PMI-ALC-r|r_4858" class="level-1">&nbsp;&nbsp;Alcudia</option><option value="CRS-PMI-PAS-r|r_596299" class="level-1">&nbsp;&nbsp;Ca’n Pastilla</option><option value="CRS-PMI-PIC-r|r_4867" class="level-1">&nbsp;&nbsp;Ca’n Picafort</option><option value="CRS-PMI-CAL-r|r_4861" class="level-1">&nbsp;&nbsp;Cala d´Or</option><option value="CRS-PMI-MAY-r|r_4869" class="level-1">&nbsp;&nbsp;Cala Mayor</option><option value="CRS-PMI-MEQ-r|r_1347809" class="level-1">&nbsp;&nbsp;Cala Mesquida</option><option value="CRS-PMI-CMI-r|r_4868" class="level-1">&nbsp;&nbsp;Cala Millor</option><option value="CRS-PMI-ILL-r|r_4862" class="level-1">&nbsp;&nbsp;Illetas</option><option value="CRS-PMI-PKC-r|r_201145" class="level-1">&nbsp;&nbsp;Kryss Mallorca Thomson Dream</option><option value="CRS-PMI-PAL-r|r_4859" class="level-1">&nbsp;&nbsp;Palma de Mallorca</option><option value="CRS-PMI-PLN-r|r_4860" class="level-1">&nbsp;&nbsp;Palma Nova</option><option value="CRS-PMI-PDP-r|r_4863" class="level-1">&nbsp;&nbsp;Playa de Palma</option><option value="CRS-PMI-NOU-r|r_183009" class="level-1">&nbsp;&nbsp;Portals Nous</option><option value="CRS-PMI-PTC-r|r_2231415" class="level-1">&nbsp;&nbsp;Porto Colom</option><option value="CRS-PMI-NDI-r|r_2231414" class="level-1">&nbsp;&nbsp;Porto Cristo</option><option value="CRS-PMI-PDS-r|r_4865" class="level-1">&nbsp;&nbsp;Puerto de Soller</option><option value="CRS-PMI-PPO-r|r_4864" class="level-1">&nbsp;&nbsp;Puerto Pollenca</option><option value="CRS-PMI-SAC-r|r_46015" class="level-1">&nbsp;&nbsp;Sa Coma</option><option value="CRS-PMI-PON-r|r_313794" class="level-1">&nbsp;&nbsp;Santa Ponsa</option>

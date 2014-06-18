@@ -1,0 +1,965 @@
+HTTP/1.1 200 OK
+Connection: close
+Date: Tue, 17 Jun 2014 10:58:17 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 2.0.50727
+SiteScanner-Page-Status: Ok
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/html; charset=utf-8
+Content-Length: 62365
+
+
+    <!DOCTYPE html >
+
+
+
+<!--[if lt IE 8]><html class="ie7" xmlns="http://www.w3.org/1999/xhtml" lang="sv-SE" xml:lang="sv-SE" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 7]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="sv-SE" xml:lang="sv-SE" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head>
+    <!-- Google Analytics Content Experiment code -->
+<script>function utmx_section(){}function utmx(){}(function(){var
+k='15332469-18',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+</script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
+    
+    <script type="text/javascript">
+        if (screen.width <= 767) {
+            var viewPortTag = document.createElement('meta');
+            viewPortTag.id = "viewport";
+            viewPortTag.name = "viewport";
+            viewPortTag.content = "width=device-width; initial-scale=1.0;";
+            document.getElementsByTagName('head')[0].appendChild(viewPortTag);
+
+            window.shouldMoveLeftColumn = true;
+        }
+    </script>
+    
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+
+
+
+<meta name="TITLE" content="Resor - Boka din resa hos Fritidsresor" />
+<meta name="DESCRIPTION" content="Boka dina resor hos Fritidsresor." />
+<meta name="KEYWORDS" content="resor, vinterresor, sommarresor, charter" />
+<meta name="RATING" content="General" />
+<meta name="GENERATOR" content="EPiServer" />
+<meta name="creation_date" content="Thu, 13 Jun 2013 10:20:00 GMT" />
+<meta name="LAST-MODIFIED" content="Tue, 17 Jun 2014 11:09:58 GMT" />
+<meta name="REVISED" content="Thu, 13 Jun 2013 10:20:54 GMT" />
+
+
+
+
+
+<link rel="shortcut icon" href="/blueicon.ico" type="image/x-icon" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/Includes/Css/BlueSites/otherpages_1A5335B7E951296A35DB86D83ED3E06E.css" />
+
+<!--[if lt IE 7]>
+   <link rel="stylesheet" type="text/css" href="/Includes/Css/BlueSites/crapyXplorer_6AE5823582D20617DA1D70B0C95B0CA1.css" />
+<![endif]-->
+
+<!--[if IE 7]>
+   <link rel="stylesheet" type="text/css" href="/Includes/Css/BlueSites/aBitLessCrapyXplorer_68D98BFC42317F7CD075D6E1487BC0FA.css" />    	
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print" href="/Includes/Css/BlueSites/print-cms.css_C579283416FE91E2BCD43A14B44F65FC.css" />
+
+<script type="text/javascript" src="/Includes/Js/Translations.aspx"></script> 
+
+
+
+
+
+
+
+
+
+
+    <link href="/Includes/Css/BlueSites/Campaigns/Beachlife/content.css?131024" type="text/css" rel="stylesheet" />
+    <link href="/Includes/Fonts/TUITypeProWebfont/tuityppro.css" type="text/css" rel="stylesheet" />
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700" type="text/css" rel="stylesheet" />
+    <!--[if lt IE 9]>
+    <style type="text/css">
+        div#module-campaign-page #epl-slideshow-container,
+        div#module-campaign-page div.mcp-page-header,
+        div#module-campaign-page div.mcp-image-box,
+        div#module-campaign-page div.mcp-hotel-box,
+        div#module-campaign-page div.mcp-push-box, 
+        div#module-campaign-page div.mcp-ticker,
+        div#module-campaign-page div#search-form,
+        div#mcp-left div#top-list-container,
+        div#module-campaign-page div.three-column-container,
+        div#module-campaign-page div#mcp-submenu {border:1px solid #AAA;}
+        div#module-campaign-page div#mcp-submenu {border-top:0;}
+        div#module-campaign-page div.three-column-container div.mcp-hotel-box {border:0;}
+        div#module-campaign-page div.mcp-image-box div.mcp-text h2 {line-height:1.1em;}
+        div#mcp-right div.three-column-main,
+        div#mcp-right div.three-column-right {margin-left:9px;}
+    </style>
+    <![endif]-->
+    
+    <link href="/Includes/Css/BlueSites/Campaigns/Beachlife/mobile.css?130830" type="text/css" rel="stylesheet" />
+    <link href="/Includes/Hybris/Css/HybrisTopNavigationResponsive.css?131118" type="text/css" rel="stylesheet" />
+    
+    
+    <!-- This script is to support HTML 5 elements. This script is not required if you are already using modernizer, html5shiv or similar plugin for legacy browsers -->
+    <!--[if lt IE 9]>
+    <script type="text/javascript">
+        var html5elements = ["article", "aside", "figcaption", "figure", "footer", "header", "main", "nav", "section", "mark", "video"],
+            elementsLength = html5elements.length;
+        while (elementsLength--) {
+            document.createElement(html5elements[elementsLength]);
+        }
+    </script>
+    <![endif]-->
+    
+<!-- Visual Website Optimizer -->
+
+<!-- End Visual Website Optimizer --><link href="/WebResource.axd?d=fjDaXdE5ZyAgLy_SpXm96MfPPuIPgxTaQXzzTb2M38Wt-Y2m1DGGFh76muMQn5ruGJ9i_uXI7SA1&amp;t=635379057834304079" rel="stylesheet" type="text/css" /><title>
+	Resor - Boka din resa hos Fritidsresor
+</title></head>
+<body id="ctl00_BodyControl" class="brand-id-1 pages-campaignpage_s13">
+    
+<script>
+    dataLayer = [{
+        'webApplicationName': 'episerver4',
+        'pagePathName': document.location.pathname.toLowerCase(),
+        'pageTitle': document.title,
+        'pageCategory': 'startpage',
+        'visitorType': 'visitor',
+        'siteStructure': document.location.hostname.replace(/www./gi, '') + document.location.pathname.replace(/\//gi, '|').replace(/\.aspx/gi, '')
+    }];
+</script>
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-QGLJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-QGLJ');</script>
+
+<!-- End Google Tag Manager -->
+    
+
+<div class="hybris-top-navigation">
+    <header class="page-header">
+	    <div class="head-inner">
+		    <h1 itemscope itemtype="http://schema.org/Organization" id="logo">
+	            <a href="/" itemprop="url">
+	                <img title="Fritidsresor.se" src="/Includes/Hybris/img/logo-1.png" itemprop="logo" alt="logo">
+                </a>                   
+		    </h1>
+            <div id="search">
+                <div class="hidden" id="search-config-text">{"noResultHeading":"Sökningen gav inga träffar","noResultText":"Sökningen gav inga träffar","listCounterText":"Visar","listCounterJoiner":"av"}</div>
+                <div id="search-site"
+                        data-action="http://www.fritidsresor.se/webbguiden/" 
+                        data-suggest="http://www.fritidsresor.se/Pages/EpiserverFind.aspx" 
+                        data-type='{"country": "Länder", "destination": "Resmål", "hotel": "Hotell", "excursion": "Utflykter", "content": "Vanliga frågor"}'
+                        data-show-all='{"text": "Visa alla träffar på en egen sida", "url": "http://www.fritidsresor.se/webbguiden/", "param":"humanyEntry"}'
+                        data-no-result='{"heading":"Sökningen gav inga träffar", "message":"Sökningen gav inga träffar"}'
+                        data-delay-time='600' 
+                        data-grade-text='F'>
+	                <fieldset>
+	      	            <label class="open">Search: </label>
+	      	            <div class="search-input-wrapper">
+	                        <input type="text" name="humanyEntry" class="search" autocomplete="off" data-placeholder="SÖK" value="SÖK">
+                            <span class="close-suggestive-spacer">close</span>
+	       	                <input type="submit" class="submit open" value="">
+	      	            </div>
+	                </fieldset>
+	            </div>
+                <div id="suggestive-search"></div>
+            </div>
+
+            <nav class="top">
+		        <span class="collapsed-menu-icon open-btn" data-open-status="Collapse" data-close-status="Expand">Expand</span>
+			    <div id="nav">
+                    <ul class="nav-links primary">
+                        
+                            <li ><a href="/" title='Startsida'><em class="caret">&rsaquo;</em>Startsida</a></li>
+                            
+                            <li  class="selected"><a href="/resor/" title='Resor'><em class="caret">&rsaquo;</em>Resor</a></li>
+                            
+                            <li ><a href="/hotell/" title='Hotell'><em class="caret">&rsaquo;</em>Hotell</a></li>
+                            
+                            <li ><a href="http://www.fritidsresor.se/boka-resa/searchform.aspx" title='Boka resa'><em class="caret">&rsaquo;</em>Boka resa</a></li>
+                            
+                            <li ><a href="/erbjudanden/" title='Erbjudanden'><em class="caret">&rsaquo;</em>Erbjudanden</a></li>
+                            
+                            <li ><a href="/film/" title='Se film'><em class="caret">&rsaquo;</em>Se film</a></li>
+                            
+                            <li ><a href="https://www.fritidsresor.se/skyddad-sida/myholiday.aspx" title='Min resa'><em class="caret">&rsaquo;</em>Min resa</a></li>
+                            
+			        </ul>    
+			    </div>
+		    </nav>
+	    </div>
+    </header>
+</div>
+
+
+
+    <form name="aspnetForm" method="post" action="../Pages/CampaignPage_S13.aspx?id=158396" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE5ODI3NzUwNg9kFgJmD2QWCmYPFgIeB1Zpc2libGVnZAICDxYCHwBoZAIDDxUEBXN2LVNFBXN2LVNFBXN2LVNFBXN2LVNFZAIED2QWAgIBD2QWCGYPZBYEZg8WAh4EVGV4dGVkAgIPFgIfAWVkAgQPFgIfAQWGBDxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJSZXNvciAtIEJva2EgZGluIHJlc2EgaG9zIEZyaXRpZHNyZXNvciIgLz4NCjxtZXRhIG5hbWU9IkRFU0NSSVBUSU9OIiBjb250ZW50PSJCb2thIGRpbmEgcmVzb3IgaG9zIEZyaXRpZHNyZXNvci4iIC8+DQo8bWV0YSBuYW1lPSJLRVlXT1JEUyIgY29udGVudD0icmVzb3IsIHZpbnRlcnJlc29yLCBzb21tYXJyZXNvciwgY2hhcnRlciIgLz4NCjxtZXRhIG5hbWU9IlJBVElORyIgY29udGVudD0iR2VuZXJhbCIgLz4NCjxtZXRhIG5hbWU9IkdFTkVSQVRPUiIgY29udGVudD0iRVBpU2VydmVyIiAvPg0KPG1ldGEgbmFtZT0iY3JlYXRpb25fZGF0ZSIgY29udGVudD0iVGh1LCAxMyBKdW4gMjAxMyAxMDoyMDowMCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJMQVNULU1PRElGSUVEIiBjb250ZW50PSJUdWUsIDE3IEp1biAyMDE0IDExOjA5OjU4IEdNVCIgLz4NCjxtZXRhIG5hbWU9IlJFVklTRUQiIGNvbnRlbnQ9IlRodSwgMTMgSnVuIDIwMTMgMTA6MjA6NTQgR01UIiAvPg0KZAIFDxYCHwFlZAIGD2QWAmYPZBYCAgEPFgIfAGdkAgYPFgIeBWNsYXNzBSFicmFuZC1pZC0xIHBhZ2VzLWNhbXBhaWducGFnZV9zMTMWAgIFD2QWBgIEDw8WAh8AaGQWBAIBD2QWBGYPZBYCZg8VAh9SZXNvciwgY2hhcnRlciBvY2ggY2hhcnRlcnJlc29yH1Jlc29yLCBjaGFydGVyIG9jaCBjaGFydGVycmVzb3JkAgIPZBYCZg8VAh9SZXNvciwgY2hhcnRlciBvY2ggY2hhcnRlcnJlc29yH1Jlc29yLCBjaGFydGVyIG9jaCBjaGFydGVycmVzb3JkAgIPFgIeCV9wYWdlTGluazK4AQABAAAA/////wEAAAAAAAAADAIAAABORVBpU2VydmVyLCBWZXJzaW9uPTQuNjEuNS44MywgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3BQEAAAAcRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZQUAAAAD4ZCBA+GQggPhkIMD4ZCEA+GQhQAAAQAACAgBAQIAAABKgwAAAAAAAAoAAAsWDGYPZBYCZg8VAwcvcmVzb3IvBVJlc29yBVJlc29yZAIBD2QWBGYPFQIIL2hvdGVsbC8GSG90ZWxsZAIBDxUBBkhvdGVsbGQCAg9kFgRmDxUCGi9ib2thLXJlc2Evc2VhcmNoZm9ybS5hc3B4K0gmIzIyODtyIGJva2FyIGR1IGRpbiByZXNhIG1lZCBGcml0aWRzcmVzb3JkAgEPFQErSCYjMjI4O3IgYm9rYXIgZHUgZGluIHJlc2EgbWVkIEZyaXRpZHNyZXNvcmQCAw9kFgRmDxUCDS9FcmJqdWRhbmRlbi8LRXJianVkYW5kZW5kAgEPFQELRXJianVkYW5kZW5kAgQPZBYEZg8VAgYvZmlsbS8HU2UgZmlsbWQCAQ8VAQdTZSBmaWxtZAIFD2QWBGYPFQIcL3NreWRkYWQtc2lkYS9teWhvbGlkYXkuYXNweDAmIzIxNDt2ZXJzaWt0IG9jaCBiZXRhbG5pbmcgb25saW5lIGF2IGJva2FkIHJlc2FkAgEPFQEwJiMyMTQ7dmVyc2lrdCBvY2ggYmV0YWxuaW5nIG9ubGluZSBhdiBib2thZCByZXNhZAIJD2QWBgIBD2QWAmYPZBYCZg9kFgJmD2QWBmYPZBYCZg9kFgJmD2QWAmYPFgIeC18hSXRlbUNvdW50AgEWAgIBD2QWAgIBDxYCHwIFHXNsaWRlIGNhcHRpb24tcG9zaXRpb24tYm90dG9tFgICBw8PFgYeCENzc0NsYXNzZR4EXyFTQgICHwBoZBYCZg9kFgICAQ8WAh8BBQpUb3BwIHJlc29yZAIBD2QWAmYPZBYCAgEPDxYGHgtfaXNFZGl0YWJsZWgeDV9wcm9wZXJ0eU5hbWUFCVRleHRWYWx1ZR4JX2xhc3RUeXBlBQdkZWZhdWx0ZGQCAg9kFgJmD2QWAmYPFgIfAQXaBDxzdHlsZT4NCkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC1kZXZpY2Utd2lkdGg6IDQ4MHB4KSB7DQoJLnRvcC1tZW51IC5wcmltYXJ5IGxpOm50aC1jaGlsZCg1KSwNCgkudG9wLW1lbnUgLnNlY29uZGFyeSBsaTpudGgtY2hpbGQoMikgew0KCQlkaXNwbGF5OiBub25lOw0KCX0NCg0KCS50b3AtbWVudSAucHJpbWFyeSBsaTpudGgtY2hpbGQoMiksDQoJLnRvcC1tZW51IC5zZWNvbmRhcnkgbGk6bnRoLWNoaWxkKDUpIHsNCgkJZGlzcGxheTogYmxvY2s7DQoJfQ0KDQoJLm1vYmlsZS1jb25jZXB0LWxpc3QgYSB7ZGlzcGxheTpibG9jazt9DQoJLm1vYmlsZS1jb25jZXB0LWxpc3QgYSBpbWcge3dpZHRoOjEwMCUgIWltcG9ydGFudDsgaGVpZ2h0OmF1dG8gIWltcG9ydGFudDt9DQoJLm1vYmlsZS1jb25jZXB0LWxpc3QgcCB7bWFyZ2luOjAgMCA1cHg7fQ0KfQ0KPC9zdHlsZT4NCjxzY3JpcHQ+DQokKGZ1bmN0aW9uKCl7DQoJJCgnLnRvcC1tZW51IC5wcmltYXJ5IGxpLmFjdGl2ZScpLnJlbW92ZUNsYXNzKCdhY3RpdmUnKTsNCgkkKCcudG9wLW1lbnUgLnByaW1hcnkgbGkudHJhdmVsLXRhYicpLmFkZENsYXNzKCdhY3RpdmUnKTsNCn0pOw0KPC9zY3JpcHQ+ZAICD2QWAmYPZBYCZg9kFgJmD2QWAgICD2QWAmYPZBYCZg8WAh8BBZINPGRpdiBjbGFzcz0iaGlkZS1mb3ItbW9iaWxlIHNob3ctZm9yLWRlc2t0b3AiPjxkaXYgY2xhc3M9Imxpc3QtY29udGFpbmVyIiAic2hvdy1mb3ItZGVza3RvcCBoaWRlLWZvci1tb2JpbGUiPg0KPGgyIGNsYXNzPSJibHVlIj5BTExBIFbDhVJBIFJFU09SIDwvaDI+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNvci9Tb21tYXJyZXNvci8iPlNvbW1hcnJlc29yPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvVmludGVycmVzb3IvIj5WaW50ZXJyZXNvcjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL0FsbC1JbmNsdXNpdmUvIj5BbGwgSW5jbHVzaXZlPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvUmVzYS11dGFuLWJhcm4vIj5SZXNvciB1dGFuIGJhcm48L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNvci9SZXNhLW1lZC1iYXJuLyI+UmVzb3IgbWVkIGJhcm48L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9FcmJqdWRhbmRlbi9Td2ltLXVwLWktc29tbWFyLzEwLXRvcHAvIj5Td2ltIHVwIG9jaCBwcml2YXQgcG9vbDwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL0tvbWJpbmF0aW9uc3Jlc29yL1RoYWlsYW5kLyI+S29tYmluYXRpb25zcmVzb3I8L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNvci9FbmRhc3QtZmx5Zy1lbGxlci1ob3RlbGwvIj5FbmRhc3QgZmx5ZzwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL2tyeXNzbmluZ2FyLyI+S3J5c3NuaW5nYXI8L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNvci9SZXNhLWZsZXJhLWdlbmVyYXRpb25lci8iPlJlc29yIGbDtnIgc3RvcmEgc8OkbGxza2FwPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvVGVtYXJlc29yLyI+UnVuZHJlc29yIG1lZCBURU1BPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvQnJvbGxvcC8iPkJyw7ZsbG9wc3Jlc29yPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvTGFuZ3RpZHNyZXNvci8iPkzDpW5ndGlkc3Jlc29yPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvVXRmbHlrdGVyLyI+VXRmbHlrdGVyPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvRHlrcmVzb3IvIj5EeWtyZXNvcjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL0dvbGZyZXNvci8iPkdvbGZyZXNvcjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL2hvdGVsbC9zcGFob3RlbGwvIj5TcGEtIG9jaCBmaXRuZXNzcmVzb3I8L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9FcmJqdWRhbmRlbi9Ba3RpdmEtcmVzb3IvIj5UcsOkbmluZ3NyZXNvcjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL0JpbHJlc29yLyI+QmlscnVuZHJlc29yIG9jaCBoeXJiaWw8L2E+DQo8L2Rpdj48L2Rpdj5kAgMPZBYGZg9kFgJmD2QWAmYPZBYEZg9kFgJmD2QWAgIBDw8WBh8HaB8IBQlUZXh0VmFsdWUfCQUHZGVmYXVsdGRkAgEPZBYCZg9kFgICAQ8PFgYfB2gfCAUJVGV4dFZhbHVlHwkFB2RlZmF1bHRkZAICD2QWAmYPZBYCZg9kFgRmD2QWAmYPZBYCAgEPDxYGHwdoHwgFCVRleHRWYWx1ZR8JBQdkZWZhdWx0ZGQCAQ9kFgJmD2QWAgIBDw8WBh8HaB8IBQlUZXh0VmFsdWUfCQUHZGVmYXVsdGRkAgMPZBYCZg9kFgJmD2QWBGYPZBYCZg9kFgJmDxYCHwEF+xw8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KaDIuY29sdW1uLWxpbmtzLWhlYWRlciB7Zm9udC1zaXplOjIwcHg7IG1hcmdpbjowIDAgNXB4IDE1cHg7fQ0KLmNvbHVtbi1saW5rcyB7Ym9yZGVyLXRvcDoxcHggc29saWQgI2RkZDsgYm9yZGVyLWxlZnQ6MXB4IHNvbGlkICNkZGQ7IG1hcmdpbjogMCAwIDE1cHggMTVweDt9DQoubGVmdC1jb2x1bW4tbGlua3Mge2Zsb2F0OmxlZnQ7IHdpZHRoOjUwJTt9DQoucmlnaHQtY29sdW1uLWxpbmtzIHtmbG9hdDpsZWZ0OyB3aWR0aDo1MCU7fQ0KLmNvbHVtbi1saW5rcyBhIHtkaXNwbGF5OmJsb2NrOyBwYWRkaW5nOjdweCAwIDdweCAxMHB4OyBib3JkZXItcmlnaHQ6MXB4IHNvbGlkICNkZGQ7IGJvcmRlci1ib3R0b206MXB4IHNvbGlkICNkZGQ7fQ0KDQpAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtZGV2aWNlLXdpZHRoIDogNDgwcHgpIHsNCgloMi5jb2x1bW4tbGlua3MtaGVhZGVyIHttYXJnaW4tbGVmdDowO30NCgkuY29sdW1uLWxpbmtzIHttYXJnaW4tbGVmdDogMDt9DQoJLmxlZnQtY29sdW1uLWxpbmtzIHt3aWR0aDoxMDAlO30NCgkucmlnaHQtY29sdW1uLWxpbmtzIHt3aWR0aDoxMDAlO30NCn0NCjwvc3R5bGU+DQo8SDIgY2xhc3M9ImNvbHVtbi1saW5rcy1oZWFkZXIiIHN0eWxlPSJGT05ULVNJWkU6IDIwcHgiPlbDhVJBIFJFU03DhUw8L0gyPg0KPGRpdiBjbGFzcz0iY29sdW1uLWxpbmtzIGZsb2F0LWNvbnRhaW5lciI+DQoJPGRpdiBjbGFzcz0ibGVmdC1jb2x1bW4tbGlua3MiPg0KICAgICAgICA8QSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL2J1bGdhcmllbi8iIG9yZ3VybD0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9idWxnYXJpZW4vIj4NCiAgICAgICAgQnVsZ2FyaWVuICYjMTg3OzwvQT4NCjxBIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvYnVybWEvP3NlYXNvbj12aW50ZXItMTQtMTUiIG9yZ3VybD0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9idXJtYS8/c2Vhc29uPXZpbnRlci0xNC0xNSI+DQogICAgICAgIEJ1cm1hICYjMTg3OzwvQT4gDQogICAgICAgIDxBIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvQ3lwZXJuLz9zZWFzb249c29tbWFyLTIwMTQiIA0KDQpvcmd1cmw9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvQ3lwZXJuLz9zZWFzb249c29tbWFyLTIwMTQiPiANCiAgICAgICAgQ3lwZXJuICYjMTg3OzwvQT4NCjxBIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvRG9taW5pa2Fuc2thLXJlcHVibGlrZW4vP3NlYXNvbj12aW50ZXItMTQtMTUgDQoNCm9yZ3VybD0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9Eb21pbmlrYW5za2EtcmVwdWJsaWtlbi8/c2Vhc29uPXZpbnRlci0xNC0xNSI+DQogICAgICAgIERvbWluaWthbnNrYSBSZXB1Ymxpa2VuICAmIzE4Nzs8L0E+DQo8QSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL0R1YmFpRm9yZW5hZGUtQXJhYmVtaXJhdGVuLyIgDQoNCm9yZ3VybD0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9EdWJhaUZvcmVuYWRlLUFyYWJlbWlyYXRlbi8iPg0KICAgICAgICBEdWJhaSAmIzE4Nzs8L0E+DQogICAgICAgIDxBIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvZWd5cHRlbi8iIG9yZ3VybD0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9lZ3lwdGVuLyI+DQogICAJCUVneXB0ZW4gJiMxODc7PC9BPg0KICAgICAgICA8QSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL2dyZWtsYW5kLyIgb3JndXJsPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL2dyZWtsYW5kLyI+DQogICAJCUdyZWtsYW5kICYjMTg3OzwvQT4NCjxBIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvSW5kb25lc2llbi9CYWxpLz9zZWFzb249dmludGVyLTE0LTE1IiANCg0Kb3JndXJsPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL0luZG9uZXNpZW4vQmFsaS8/c2Vhc29uPXZpbnRlci0xNC0xNSI+SW5kb25lc2llbiAtIEJhbGkgJiMxODc7IDwvQT4NCg0KICAgICAgICA8QSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL2l0YWxpZW4vIiBvcmd1cmw9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvaXRhbGllbi8iPg0KCQlJdGFsaWVuICYjMTg3OyA8L0E+DQoJPC9kaXY+DQoJPGRpdiBjbGFzcz0icmlnaHQtY29sdW1uLWxpbmtzIj4NCiAgPEEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9KYW1haWNhLz9zZWFzb249dmludGVyLTE0LTE1IiBvcmd1cmw9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvSmFtYWljYS8/DQoNCnNlYXNvbj12aW50ZXItMTQtMTUiPg0KICAgIAlKYW1haWNhICYjMTg3OzwvQT48QSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL0thcC1WZXJkZS8/c2Vhc29uPXZpbnRlci0xNC0xNSIgDQoNCm9yZ3VybD0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9LYXAtVmVyZGUvP3NlYXNvbj12aW50ZXItMTQtMTUiPg0KICAgIAlLYXAgVmVyZGUgJiMxODc7PC9BPjxBIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL2tyb2F0aWVuMjAxNSIgb3JndXJsPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9rcm9hdGllbjIwMTUiPg0KCQlOWUhFVCEgS3JvYXRpZW4gJiMxODc7IChzw6RsanN0YXJ0IDI2LzYgMjAxNCk8L0E+DQoNCiAgICAgICAgPEEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9tYWxkaXZlcm5hLyIgb3JndXJsPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL21hbGRpdmVybmEvIj4NCiAgICAJTWFsZGl2ZXJuYSAmIzE4Nzs8L0E+DQogPEEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9NYXVyaXRpdXMvP3NlYXNvbj12aW50ZXItMTQtMTUvIiANCg0Kb3JndXJsPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL01hdXJpdGl1cy8/c2Vhc29uPXZpbnRlci0xNC0xNSI+TWF1cml0aXVzICYjMTg3OzwvQT4NCiA8QSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL01leGljby8/c2Vhc29uPXZpbnRlci0xNC0xNS8iIG9yZ3VybD0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9NZXhpY28vPw0KDQpzZWFzb249dmludGVyLTE0LTE1Ij4NCiAgICAJTWV4aWNvICYjMTg3OzwvQT4NCiAgICAgICAgPEEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzYS9zcGFuaWVuLyIgb3JndXJsPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL3NwYW5pZW4vIj4NCiAgICAJU3BhbmllbiAmIzE4Nzs8L0E+DQogICAgICAgIDxBIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvdGhhaWxhbmQvIiBvcmd1cmw9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvdGhhaWxhbmQvIj4NCiAgICAJVGhhaWxhbmQgJiMxODc7PC9BPg0KICAgICAgICA8QSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNhL3R1cmtpZXQvIiBvcmd1cmw9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc2EvdHVya2lldC8iPg0KCQlUdXJraWV0ICYjMTg3OzwvQT4NCgk8L2Rpdj4NCjwvZGl2PmQCAQ9kFgJmD2QWAmYPFgIfAQWWDDxkaXYgY2xhc3M9ImhpZGUtZm9yLWRlc2t0b3Agc2hvdy1mb3ItbW9iaWxlIj48ZGl2IGNsYXNzPSJsaXN0LWNvbnRhaW5lciIgInNob3ctZm9yLW1vYmlsZS0gaGlkZS1mb3ItZGVza3RvcCI+DQo8aDIgY2xhc3M9ImJsdWUiPkFMTEEgVsOFUkEgUkVTT1IgPC9oMj4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL1NvbW1hcnJlc29yLyI+U29tbWFycmVzb3I8L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNvci9WaW50ZXJyZXNvci8iPlZpbnRlcnJlc29yPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvQWxsLUluY2x1c2l2ZS8iPkFsbCBJbmNsdXNpdmU8L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNvci9SZXNhLXV0YW4tYmFybi8iPlJlc29yIHV0YW4gYmFybjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL1Jlc2EtbWVkLWJhcm4vIj5SZXNvciBtZWQgYmFybjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL0tvbWJpbmVyYS1yZXNvci8iPktvbWJpbmF0aW9uc3Jlc29yPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvRW5kYXN0LWZseWctZWxsZXItaG90ZWxsLyI+RW5kYXN0IGZseWc8L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9yZXNvci9rcnlzc25pbmdhci8iPktyeXNzbmluZ2FyPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvUmVzYS1mbGVyYS1nZW5lcmF0aW9uZXIvIj5SZXNvciBmw7ZyIHN0b3JhIHPDpGxsc2thcDwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cudGVtYXJlc29yLnNlLyI+UnVuZHJlc29yIG1lZCBURU1BPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvQnJvbGxvcC8iPkJyw7ZsbG9wc3Jlc29yPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvTGFuZ3RpZHNyZXNvci8iPkzDpW5ndGlkc3Jlc29yPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvVXRmbHlrdGVyLyI+VXRmbHlrdGVyPC9hPg0KPGEgaHJlZj0iaHR0cDovL3d3dy5mcml0aWRzcmVzb3Iuc2UvcmVzb3IvRHlrcmVzb3IvIj5EeWtyZXNvcjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL0dvbGZyZXNvci8iPkdvbGZyZXNvcjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL2hvdGVsbC9oYWxzYS1vY2gtbmp1dG5pbmcvIj5TcGEtIG9jaCBmaXRuZXNzcmVzb3I8L2E+DQo8YSBocmVmPSJodHRwOi8vd3d3LmZyaXRpZHNyZXNvci5zZS9FcmJqdWRhbmRlbi9Ba3RpdmEtcmVzb3IvIj5UcsOkbmluZ3NyZXNvcjwvYT4NCjxhIGhyZWY9Imh0dHA6Ly93d3cuZnJpdGlkc3Jlc29yLnNlL3Jlc29yL0JpbHJlc29yLyI+QmlscnVuZHJlc29yIG9jaCBoeXJiaWw8L2E+DQo8L2Rpdj48L2Rpdj5kAgsPZBYGZg9kFgICAQ8PFgYfB2gfAzK4AQABAAAA/////wEAAAAAAAAADAIAAABORVBpU2VydmVyLCBWZXJzaW9uPTQuNjEuNS44MywgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3BQEAAAAcRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZQUAAAAD4ZCBA+GQggPhkIMD4ZCEA+GQhQAAAQAACAgBAQIAAABKgwAAAAAAAAoAAAsfCQUHZGVmYXVsdGRkAgEPZBYCAgEPFgQeCl9vcGVuUGFnZXMypAMAAQAAAP////8BAAAAAAAAAAwCAAAATkVQaVNlcnZlciwgVmVyc2lvbj00LjYxLjUuODMsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwUBAAAAJkVQaVNlcnZlci5Db3JlLlBhZ2VSZWZlcmVuY2VDb2xsZWN0aW9uAgAAAAPhkIETQ29sbGVjdGlvbkJhc2UrbGlzdAMDHFN5c3RlbS5Db2xsZWN0aW9ucy5IYXNodGFibGUcU3lzdGVtLkNvbGxlY3Rpb25zLkFycmF5TGlzdAIAAAAKCQMAAAAEAwAAABxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24FAAAICAkEAAAAAQAAAAEAAAAQBAAAAAQAAAAJBQAAAA0DBQUAAAAcRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZQUAAAAD4ZCBA+GQggPhkIMD4ZCEA+GQhQAAAQAACAgBAQIAAAC8agIAAAAAAAoAAAsfAzK4AQABAAAA/////wEAAAAAAAAADAIAAABORVBpU2VydmVyLCBWZXJzaW9uPTQuNjEuNS44MywgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3BQEAAAAcRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZQUAAAAD4ZCBA+GQggPhkIMD4ZCEA+GQhQAAAQAACAgBAQIAAAA5jwAAAAAAAAoAAAtkAgIPZBYGZg8WAh8AZxYCAgEPFgIfAQXCBTxkaXYgY2xhc3M9ImxvZ28iPjxhIGNsYXNzPSJmb290ZXItbG9nbyBmb290ZXItZ3JhbmQtbG9nby1zZSIgdGl0bGU9IlN2ZXJpZ2VzIGLDpHN0YSBjaGFydGVyYXJyYW5nw7ZyIDIwMTIiIGhyZWY9Imh0dHA6Ly93d3cuZ3JhbmR0cmF2ZWxhd2FyZC5zZS8zMTU4OS1Ob21pbmVyYWRlIiB0YXJnZXQ9Il9ibGFuayI+PGltZyB0aXRsZT0iU3ZlcmlnZXMgYsOkc3RhIGNoYXJ0ZXJhcnJhbmfDtnIgMjAxMiIgYWx0PSJTdmVyaWdlcyBiw6RzdGEgY2hhcnRlcmFycmFuZ8O2ciAyMDEyIiBzcmM9Ii9JbmNsdWRlcy9JbWFnZXMvTGF5b3V0LzEvZ3JhbmR0cmF2ZWxhd2FyZDIwMTIucG5nIiB3aWR0aD0iMTAyIiBoZWlnaHQ9Ijc2IiAvPiA8L2E+PGEgY2xhc3M9ImZvb3Rlci1sb2dvIGZvb3Rlci1pdy1sb2dvLXNlIiB0aXRsZT0iU3ZlcmlnZXMgYsOkc3RhIHJlc2VzYWp0IDIwMTEiIGhyZWY9Imh0dHA6Ly9pbnRlcm5ldHdvcmxkLmlkZy5zZS8yLjEwMDYvMS40MTYzNDAvc3ZlcmlnZXMtYmFzdGEtcmVzZXNhanQtMjAxMSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgdGl0bGU9IlN2ZXJpZ2VzIGLDpHN0YSByZXNlc2FqdCAyMDExIiBhbHQ9IlN2ZXJpZ2VzIGLDpHN0YSByZXNlc2FqdCAyMDExIiBzcmM9Ii9JbmNsdWRlcy9JbWFnZXMvTGF5b3V0LzEvaW50ZXJuZXR3b3JsZDIwMTEucG5nIiB3aWR0aD0iNzgiIGhlaWdodD0iNzYiIC8+IDwvYT48L2Rpdj5kAgEPDxYCHwEFDVRVSSBpIG5vcmRlbjpkZAICDxYCHwBoZGTzVwWSX+bDVfjngIGmqcwtw/9y9Q==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=JFhKhvn-gabv5Wk18xVy0g2&amp;t=635161345907753960" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=db5LfIuV8kIPBIqNPkJQpuC-O655tw6Zc-rrCWlElvdQdQE0N9t8oHAFX38CSZtkXwXntmDkhFwrkZUUKIOh8oB33rAZP_FX2dtYTrvDdLNp16LYBJhj-__s9I0pWp_8qG6rdJJU1wOMeuKi70Npb7GtvhvLSAjbzi1BeFu0J_nXWtUbbla22V-a9ZazPfMns-XFGqE-ruv2YlYk3pRlh-SprIDW8YzGALpYwPuTuzwPleF_7nN9pcm76HLCu8c5dNMI1RIqV2QxMIRx56qJNgIx8k6z7Wk5oSDJz4KK7NFfqMHIJt-U4-vf3XzM_utl6iOH81x_FSagFbN6JPJh_QM347hCUNlv43lKIGf5j0vV0BjwWM2OAJK1XJrjl-NjiAlOe0otLYFByXkjTjVd6x6mq3cqlY0eFPgcamWuP4ttFwbfs7GtPg8ltSviHjj55_74Fn3WNpN2hAvIkKTMK6UmREKqBamNzJLgCzaIPiPxgpEx8lKlLUddDrO4Q6tK_aHMgJL3jBxQcF282K-jSecFj9AXU-VaT8Uuh0GBnAY4DTNRj_yOanqpg8G72aMUlv3uX4r4NA-Taojp4SO3mfqVNZihMa4dEmRGvi0_fqnRQi8wS-N2tG8K4IMAFsG7GlOCIQW1URt-jNWQF1Awn_0iRiVIYEi9O_vT5AZYXmx-kpVxs8ploddgXqvVjA8-u_Q0kNxsNHkdbHXwIy1bv4N6Xmd5H1I3xJBL7woiF2b15lnbnQU4wdbhGzng78Y9-Duw3hhSztMzdzM-O9vKeLVNqiNaDMu20Koe0QqfUyftGh8V4Hy7Hw2" type="text/javascript"></script><script type='text/javascript'>document.forms[0].action='/resor/season/Post.aspx';</script>
+            
+        
+
+        <div id="page">    
+            <!-- 2014-06-17 12:58 -->
+            
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$MasterScriptManger', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+            
+            
+
+            <span id="ctl00_PreviewStateLabel1"></span>
+       
+            
+
+            
+
+            
+                <div id="content" class="float-container no-padding-top no-padded-content">
+            
+            
+            
+    <div id="humanySuggestResult"></div>
+
+
+            
+            
+                <div id="content-outer" class="float-container">
+                    <div id="content-inner" class="page-container float-container">
+                        
+    
+    <div id="module-campaign-page" class="float-container page-layout-adults v3" data-use-event-tracking="true" data-event-category="Resor startsida">
+        <div id="mcp-main" class="float-container">
+            <div id="ctl00_mainRegion_mainContentArea">
+	<div id="ctl00_mainRegion_mainContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1">
+		<div id="ctl00_mainRegion_mainContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_mainContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_ita_768041_MainArea">
+				<div id="ctl00_mainRegion_mainContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_cb_2112303">
+					
+<style type="text/css">
+
+    div#page #epl-slideshow-container,
+    .start div#content-start #epl-slideshow-container {height:340px;}
+
+    div#page .epl-slideshow-slides_container,
+    div#page .epl-slideshow-slides_container div.slide,
+    .start div#content-start .epl-slideshow-slides_container,
+    .start div#content-start .epl-slideshow-slides_container div.slide {height:340px;}
+
+    div#page .epl-slideshow-caption,
+    .start div#content-start .epl-slideshow-caption {opacity:1; filter:alpha(opacity=100);}
+
+</style>
+
+        <div id="epl-slideshow-container">
+            <div id="epl-slideshow-slides">
+                <div class="epl-slideshow-slides_container">
+    
+                    <div id="ctl00_mainRegion_mainContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_ctl00_EpiPageListSlideshow_SlideShowList_ctl01_SlideItem" class="slide caption-position-bottom">
+                        <img src="/FileOrganizer/BLUE - Fritidsresor_se/Resor/ResorBigBanner870x340.jpg" />
+                        <span class="text-on-image" style="top:15px; left:40px;">Boka dagarna<BR>du minns!</span>
+                        <img src="/FileOrganizer/BLUE - Fritidsresor_se/Resor/ResorBigBannerSplash.png" class="splash-image" style="top:133px; left:40px;" />
+                        
+                        
+                    </div>
+    
+                </div>
+                <a href="#" class="prev"></a>
+                <a href="#" class="next"></a>
+            </div>
+        </div>
+    
+
+<script src="/Includes/Js/jQuery/slide.js/slides.min.jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function () {
+        var slideShowSlides = $('#epl-slideshow-slides');
+        slideShowSlides.slides({
+            preload: true,
+            container: 'epl-slideshow-slides_container',
+            paginationClass: 'epl-slideshow-pagination',
+            preloadImage: '/Includes/Images/BlueSites/Campaign/img-loading.gif',
+            play: 7500,
+            pause: 3000,
+            hoverPause: true,
+            effect: 'fade',
+            animationStart: function (current) {
+                $('.epl-slideshow-caption').animate({
+                    bottom: -35
+                }, 100);
+            },
+            animationComplete: function (current) {
+                $('.epl-slideshow-caption').animate({
+                    bottom: 0
+                }, 200);
+            },
+            slidesLoaded: function () {
+                $('.epl-slideshow-caption').animate({
+                    bottom: 0
+                }, 200);
+            }
+        });
+        $('#epl-slideshow-slides div.slide:first').show();
+    });
+</script>
+
+				</div><div id="ctl00_mainRegion_mainContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_cb_2112304">
+					
+<div class="text-field-container">
+	<div class="text-field-outer">
+		<div class="text-field-inner">
+			<div class="text-field  float-container">
+				<h2 class="hide-for-desktop show-for-mobile">CHARTERRESOR TILL SOL OCH BAD<br /></h2>
+<div class="hide-for-desktop show-for-mobile">Nu kan du flyga till värmen från 19 avreseorter, från Köpenhamn och Malmö i söder till Luleå i norr. Nyhet i år är vår nya Dreamliner 787, världens miljövänligaste flyg som bland annat tar dig nonstop till Thailand. På våra hotell-koncept kan alla kan hitta sitt drömboende.<br /><br /></div>
+			</div>
+		</div>
+	</div>
+</div>
+				</div><div id="ctl00_mainRegion_mainContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_cb_2112305">
+					<style>
+@media only screen and (max-device-width: 480px) {
+	.top-menu .primary li:nth-child(5),
+	.top-menu .secondary li:nth-child(2) {
+		display: none;
+	}
+
+	.top-menu .primary li:nth-child(2),
+	.top-menu .secondary li:nth-child(5) {
+		display: block;
+	}
+
+	.mobile-concept-list a {display:block;}
+	.mobile-concept-list a img {width:100% !important; height:auto !important;}
+	.mobile-concept-list p {margin:0 0 5px;}
+}
+</style>
+<script>
+$(function(){
+	$('.top-menu .primary li.active').removeClass('active');
+	$('.top-menu .primary li.travel-tab').addClass('active');
+});
+</script>
+				</div>
+			</div>
+		</div>
+
+
+	</div>
+</div>
+        </div>
+        <div id="mcp-left">
+            <div id="ctl00_mainRegion_leftContentArea">
+	<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1">
+		<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_ita_768042_MainArea">
+				<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_cb_2112306">
+					
+<link href="/Includes/Css/BlueSites/booking-panel.css" type="text/css" rel="stylesheet" />
+
+
+<div id="search-form" class="booking-panel bp-tab1 ">
+    <div class="top"></div>
+    
+    <div class="content">
+        <div class="booking-panel-header float-container" style="background-color:#CDE9F4">
+            <h2>BOKA DIN SEMESTER HÄR</h2>
+            <span><a href="javascript:void(0)" class="help-text-popup" rel="ProductInfoPages|CharterCombiAndFlightOnly" title='Information om charter, hotell &amp; flyg'><img alt="" src="/includes/Images/Enok/Booking/question-mark.png" /></a></span>
+        </div>
+        <div class="travel-type-selection bp-brand-1" style="background-color:#CDE9F4">
+            <span class="choice" ><input name="tab1" id="tab1_1" type="radio" value="CHARTER" checked="checked" class="radio" /><label for="tab1_1" class="selected">Charter&#160;</label></span>
+            
+            <span class="choice choice-combinations" ><input name="tab1" id="tab1_2" type="radio" value="COMBINATION" class="radio" /><label for="tab1_2">Kombinationsresa</label></span>
+            
+            
+            <span class="choice choice-flightonly"><input name="tab1" id="tab1_3" type="radio" value="CHARTER_FLT" class="radio" /><label for="tab1_3">Endast flyg</label></span>
+            <div class="flight-only-type-selection"><div class="standard-dropdown"><select id="flight-only-type"><option value="0">Tur &amp; retur</option><option value="1">Enkel resa</option></select></div></div>
+            <span class="choice choice-cruise"><a href="http://www.fritidsresor.se/resor/kryssningar/" target="_blank">Kryssningar</a></span>
+            <input type="hidden" id="last-selected-type" />
+        </div>
+        <div id="charter" class="bp-content bp-content-loading package" style="background-color:#E9F3FF"><img src="/Includes/Images/Layout/HotelItem/icon-load-66x66.gif" alt='Laddar...' class="w66xh66" /></div>
+        <div id="flex" class="bp-content bp-content-loading flex"><img src="/Includes/Images/Layout/HotelItem/icon-load-66x66.gif" alt='Laddar...' class="w66xh66" /></div>
+    </div>
+    <div class="bottom"></div><div class="clear"></div>
+</div>
+				</div><div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_cb_2112307">
+					
+
+<div class="mcp-image-box expand-onload-true with-shadow " style="background-color:#FFF">
+    <div class="mcp-image">
+        
+            <a href="http://www.fritidsresor.se/resor/avreseorter/harifran-flyger-vi/">
+                <img src="/FileOrganizer/BLUE - Fritidsresor_se/Erbjudanden/280x170/280x170-Flyg-reg.jpg" alt="" />
+            </a>
+        
+        
+    </div>
+    <div class="mcp-text mcp-text-with-title-true">
+        
+        <h2>HÄRIFRÅN FLYGER VI</h2>
+        
+        <div class="expand-collapse-container box-ignore">
+            <div class="padded-text-container">
+                <p>Vi flyger från 18 olika städer, från Köpenhamn och Malmö i söder till Luleå i norr.&nbsp;Bekvämt och enkelt med en avreseflygplats nära dig!&nbsp;<br /><br /><a href="http://www.fritidsresor.se/resor/avreseorter/harifran-flyger-vi/"><strong>Se alla avreseorter här »</strong></a></p>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+				</div><div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_cb_2112308">
+					<div class="hide-for-mobile show-for-desktop"><div class="list-container" "show-for-desktop hide-for-mobile">
+<h2 class="blue">ALLA VÅRA RESOR </h2>
+<a href="http://www.fritidsresor.se/resor/Sommarresor/">Sommarresor</a>
+<a href="http://www.fritidsresor.se/resor/Vinterresor/">Vinterresor</a>
+<a href="http://www.fritidsresor.se/resor/All-Inclusive/">All Inclusive</a>
+<a href="http://www.fritidsresor.se/resor/Resa-utan-barn/">Resor utan barn</a>
+<a href="http://www.fritidsresor.se/resor/Resa-med-barn/">Resor med barn</a>
+<a href="http://www.fritidsresor.se/Erbjudanden/Swim-up-i-sommar/10-topp/">Swim up och privat pool</a>
+<a href="http://www.fritidsresor.se/resor/Kombinationsresor/Thailand/">Kombinationsresor</a>
+<a href="http://www.fritidsresor.se/resor/Endast-flyg-eller-hotell/">Endast flyg</a>
+<a href="http://www.fritidsresor.se/resor/kryssningar/">Kryssningar</a>
+<a href="http://www.fritidsresor.se/resor/Resa-flera-generationer/">Resor för stora sällskap</a>
+<a href="http://www.fritidsresor.se/resor/Temaresor/">Rundresor med TEMA</a>
+<a href="http://www.fritidsresor.se/resor/Brollop/">Bröllopsresor</a>
+<a href="http://www.fritidsresor.se/resor/Langtidsresor/">Långtidsresor</a>
+<a href="http://www.fritidsresor.se/resor/Utflykter/">Utflykter</a>
+<a href="http://www.fritidsresor.se/resor/Dykresor/">Dykresor</a>
+<a href="http://www.fritidsresor.se/resor/Golfresor/">Golfresor</a>
+<a href="http://www.fritidsresor.se/hotell/spahotell/">Spa- och fitnessresor</a>
+<a href="http://www.fritidsresor.se/Erbjudanden/Aktiva-resor/">Träningsresor</a>
+<a href="http://www.fritidsresor.se/resor/Bilresor/">Bilrundresor och hyrbil</a>
+</div></div>
+				</div>
+			</div>
+		</div>
+
+
+	</div><div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_2">
+		<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_2_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_2_ita_768044_MainArea">
+
+			</div>
+		</div>
+
+
+	</div><div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_3">
+		<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_3_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_3_ita_768045_MainArea">
+
+			</div>
+		</div>
+
+
+	</div><div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_4">
+		<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_4_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_leftContentArea_bluesites_templates_innertemplates_onecolumn_ascx_4_ita_768048_MainArea">
+
+			</div>
+		</div>
+
+
+	</div>
+</div>
+        </div>
+        <div id="mcp-right" class="float-container">
+            <div id="ctl00_mainRegion_rightContentArea">
+	<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_3">
+		<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_3_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_3_ita_768046_MainArea">
+				<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_3_cb_2112309">
+					
+<div class="text-field-container">
+	<div class="text-field-outer">
+		<div class="text-field-inner">
+			<div class="text-field  float-container">
+				<style><![CDATA[
+div#last-minute-container {margin:0 0 15px 15px;}
+div#last-minute-container table.specify-criterias .country-label, 
+div#last-minute-container table.specify-criterias .country-list {display:none;}
+div#last-minute-container h1,
+div#last-minute-container h2,
+div#last-minute-container h3,
+div#last-minute-container h4,
+div#last-minute-container h5,
+div#last-minute-container select,
+div#last-minute-container input {font-family:'PT Sans';}
+div#last-minute-container table#listing-table td {font-size:12px;}
+div#last-minute-container .current-search {border-top:3px solid #003953;}
+div#last-minute-container table.specify-criterias {border-bottom:3px solid #003953; margin-bottom:0;}
+div#last-minute-container table#listing-table th {background:#003953;}
+div#last-minute-container div#sorting-choices .inner div.float-right {float:left;}
+div#last-minute-container table#listing-table {margin-bottom:0;}
+div#last-minute-container div.paging-results,
+div#last-minute-container div.paging-results-ajax {margin-bottom:0;}
+div#last-minute-container div.availability {margin:10px 0 0; background:none; border-top:1px solid #DDD;}
+div#last-minute-container div.availability div.inner {background:none;}
+]]></style>
+			</div>
+		</div>
+	</div>
+</div>
+				</div><div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_3_cb_2112310">
+					
+<div class="text-field-container">
+	<div class="text-field-outer">
+		<div class="text-field-inner">
+			<div class="text-field  float-container">
+				<div class="hide-for-mobile show-for-desktop">
+<h1 style="MARGIN: 0px 0px 0px 15px; FONT-SIZE: 20px" class="show-for-desktop hide-for-mobile"><font color="#003953">RESOR TILL SOL &amp; BAD</font></h1>
+<p style="MARGIN: 0px 0px 0px 15px; class: ">Nu kan du flyga till värmen från 18 avreseorter, från Köpenhamn&nbsp;och Malmö i söder till Luleå i norr. Nyhet&nbsp;i år&nbsp;är vår nya Dreamliner 787, världens miljövänligaste flyg som bland annat tar dig nonstop till Thailand.&nbsp;På våra hotellkoncept kan&nbsp;alla hitta sitt drömboende.<br /><br /></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+				</div>
+			</div>
+		</div>
+
+
+	</div><div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_twocolumns213_434_ascx_4">
+		
+<div class="two-column-container float-container">
+	<div class="two-column-left">
+		<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_twocolumns213_434_ascx_4_Blockarea1">
+			<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_twocolumns213_434_ascx_4_ita_768047_LeftArea">
+				<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_twocolumns213_434_ascx_4_cb_2112312">
+					
+
+<div class="mcp-image-box expand-onload-true with-shadow " style="background-color:#FFF">
+    <div class="mcp-image">
+        
+            <a href="http://www.fritidsresor.se/resor/Vinterresor/">
+                <img src="/FileOrganizer/BLUE - Fritidsresor_se/Resor/280x170_v1314.jpg" alt="" />
+            </a>
+        
+        
+    </div>
+    <div class="mcp-text mcp-text-with-title-true">
+        
+        <h2>VINTERRESOR</h2>
+        
+        <div class="expand-collapse-container box-ignore">
+            <div class="padded-text-container">
+                <p>Njut av värmen under oktober - april, säkra din plats redan nu. Välj bland&nbsp;våra klassiska resmål eller spännande nyheter. </p><a href="http://www.fritidsresor.se/resor/Vinterresor/">
+<p>Se alla vinterresor här »<br /></p></a>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="two-column-right">
+		<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_twocolumns213_434_ascx_4_Blockarea2">
+			<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_twocolumns213_434_ascx_4_ita_768047_RightArea">
+				<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_twocolumns213_434_ascx_4_cb_2112311">
+					
+
+<div class="mcp-image-box expand-onload-true with-shadow " style="background-color:#FFF">
+    <div class="mcp-image">
+        
+            <a href="http://www.fritidsresor.se/resor/Sommarresor/">
+                <img src="/FileOrganizer/BLUE - Fritidsresor_se/Resor/280x170-somarlov-i-juni.jpg" alt="" />
+            </a>
+        
+        
+    </div>
+    <div class="mcp-text mcp-text-with-title-true">
+        
+        <h2>SOMMARRESOR</h2>
+        
+        <div class="expand-collapse-container box-ignore">
+            <div class="padded-text-container">
+                <p>Här hittar du din drömsemester vare sig du vill åka till Medelhavet, exotiska öar eller på kryssning under april - oktober.</p><a href="http://www.fritidsresor.se/resor/Sommarresor/">
+<p>Se alla sommarresor här&nbsp;»</p></a>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+	</div><div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_9">
+		<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_9_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_9_ita_768049_MainArea">
+				<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_9_cb_2112313">
+					
+<div class="text-field-container">
+	<div class="text-field-outer">
+		<div class="text-field-inner">
+			<div class="text-field  float-container">
+				<div class="hide-for-mobile show-for-desktop">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr valign="top">
+<td><a href="http://www.fritidsresor.se/Hotell/Blue-village/?season=vinter-14-15"><img style="WIDTH: 192px; HEIGHT: 293px" alt="" src="/14024643-e061-4f5c-9545-5736893a07c0.fodoc" /></a></td>
+<td><a href="http://www.fritidsresor.se/Hotell/Blue-star/?season=vinter-14-15"><img style="WIDTH: 191px; HEIGHT: 293px" border="0" alt="" src="/00a46586-527c-4cae-bfe7-f5a1e1c3c60b.fodoc" /></a></td>
+<td><a href="http://www.fritidsresor.se/Hotell/Blue-Couples/?season=vinter-14-15"><img style="WIDTH: 193px; HEIGHT: 293px" border="0" alt="" src="/06f1c760-21ee-4c62-82c0-37ca3d8e9652.fodoc" /></a></td></tr></tbody></table></div>
+			</div>
+		</div>
+	</div>
+</div>
+				</div><div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_9_cb_2112314">
+					
+<div class="text-field-container">
+	<div class="text-field-outer">
+		<div class="text-field-inner">
+			<div class="text-field  float-container">
+				<div style="MARGIN-TOP: 5px" class="hide-for-desktop show-for-mobile mobile-concept-list">
+<p><a href="http://www.fritidsresor.se/Hotell/Blue-village/?season=vinter-13-14"><img style="WIDTH: 218px; HEIGHT: 334px" border="0" alt="" align="middle" src="/56c64170-174b-4d62-b2bc-190cf2a18444.fodoc" /></a></p>
+<p><a href="http://www.fritidsresor.se/Hotell/Blue-star/?season=vinter-13-14"><img style="WIDTH: 218px; HEIGHT: 334px" border="0" alt="" align="middle" src="/153d1d95-ac76-44c5-bb8a-2ef156d134df.fodoc" width="218" height="334" /></a></p>
+<p><a href="http://www.fritidsresor.se/Hotell/Blue-Couples/?season=vinter-13-14"><img style="WIDTH: 218px; HEIGHT: 334px" border="0" alt="" align="middle" src="/6a6bff9a-9c36-4518-92c5-5956a44c4bec.fodoc" /></a></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+				</div>
+			</div>
+		</div>
+
+
+	</div><div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_10">
+		<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_10_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_10_ita_768050_MainArea">
+				<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_10_cb_2112315">
+					<style type="text/css">
+h2.column-links-header {font-size:20px; margin:0 0 5px 15px;}
+.column-links {border-top:1px solid #ddd; border-left:1px solid #ddd; margin: 0 0 15px 15px;}
+.left-column-links {float:left; width:50%;}
+.right-column-links {float:left; width:50%;}
+.column-links a {display:block; padding:7px 0 7px 10px; border-right:1px solid #ddd; border-bottom:1px solid #ddd;}
+
+@media only screen and (max-device-width : 480px) {
+	h2.column-links-header {margin-left:0;}
+	.column-links {margin-left: 0;}
+	.left-column-links {width:100%;}
+	.right-column-links {width:100%;}
+}
+</style>
+<H2 class="column-links-header" style="FONT-SIZE: 20px">VÅRA RESMÅL</H2>
+<div class="column-links float-container">
+	<div class="left-column-links">
+        <A href="http://www.fritidsresor.se/resa/bulgarien/" orgurl="http://www.fritidsresor.se/resa/bulgarien/">
+        Bulgarien &#187;</A>
+<A href="http://www.fritidsresor.se/resa/burma/?season=vinter-14-15" orgurl="http://www.fritidsresor.se/resa/burma/?season=vinter-14-15">
+        Burma &#187;</A> 
+        <A href="http://www.fritidsresor.se/resa/Cypern/?season=sommar-2014" 
+
+orgurl="http://www.fritidsresor.se/resa/Cypern/?season=sommar-2014"> 
+        Cypern &#187;</A>
+<A href="http://www.fritidsresor.se/resa/Dominikanska-republiken/?season=vinter-14-15 
+
+orgurl="http://www.fritidsresor.se/resa/Dominikanska-republiken/?season=vinter-14-15">
+        Dominikanska Republiken  &#187;</A>
+<A href="http://www.fritidsresor.se/resa/DubaiForenade-Arabemiraten/" 
+
+orgurl="http://www.fritidsresor.se/resa/DubaiForenade-Arabemiraten/">
+        Dubai &#187;</A>
+        <A href="http://www.fritidsresor.se/resa/egypten/" orgurl="http://www.fritidsresor.se/resa/egypten/">
+   		Egypten &#187;</A>
+        <A href="http://www.fritidsresor.se/resa/grekland/" orgurl="http://www.fritidsresor.se/resa/grekland/">
+   		Grekland &#187;</A>
+<A href="http://www.fritidsresor.se/resa/Indonesien/Bali/?season=vinter-14-15" 
+
+orgurl="http://www.fritidsresor.se/resa/Indonesien/Bali/?season=vinter-14-15">Indonesien - Bali &#187; </A>
+
+        <A href="http://www.fritidsresor.se/resa/italien/" orgurl="http://www.fritidsresor.se/resa/italien/">
+		Italien &#187; </A>
+	</div>
+	<div class="right-column-links">
+  <A href="http://www.fritidsresor.se/resa/Jamaica/?season=vinter-14-15" orgurl="http://www.fritidsresor.se/resa/Jamaica/?
+
+season=vinter-14-15">
+    	Jamaica &#187;</A><A href="http://www.fritidsresor.se/resa/Kap-Verde/?season=vinter-14-15" 
+
+orgurl="http://www.fritidsresor.se/resa/Kap-Verde/?season=vinter-14-15">
+    	Kap Verde &#187;</A><A href="http://www.fritidsresor.se/kroatien2015" orgurl="http://www.fritidsresor.se/kroatien2015">
+		NYHET! Kroatien &#187; (säljstart 26/6 2014)</A>
+
+        <A href="http://www.fritidsresor.se/resa/maldiverna/" orgurl="http://www.fritidsresor.se/resa/maldiverna/">
+    	Maldiverna &#187;</A>
+ <A href="http://www.fritidsresor.se/resa/Mauritius/?season=vinter-14-15/" 
+
+orgurl="http://www.fritidsresor.se/resa/Mauritius/?season=vinter-14-15">Mauritius &#187;</A>
+ <A href="http://www.fritidsresor.se/resa/Mexico/?season=vinter-14-15/" orgurl="http://www.fritidsresor.se/resa/Mexico/?
+
+season=vinter-14-15">
+    	Mexico &#187;</A>
+        <A href="http://www.fritidsresor.se/resa/spanien/" orgurl="http://www.fritidsresor.se/resa/spanien/">
+    	Spanien &#187;</A>
+        <A href="http://www.fritidsresor.se/resa/thailand/" orgurl="http://www.fritidsresor.se/resa/thailand/">
+    	Thailand &#187;</A>
+        <A href="http://www.fritidsresor.se/resa/turkiet/" orgurl="http://www.fritidsresor.se/resa/turkiet/">
+		Turkiet &#187;</A>
+	</div>
+</div>
+				</div><div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_10_cb_2112316">
+					<div class="hide-for-desktop show-for-mobile"><div class="list-container" "show-for-mobile- hide-for-desktop">
+<h2 class="blue">ALLA VÅRA RESOR </h2>
+<a href="http://www.fritidsresor.se/resor/Sommarresor/">Sommarresor</a>
+<a href="http://www.fritidsresor.se/resor/Vinterresor/">Vinterresor</a>
+<a href="http://www.fritidsresor.se/resor/All-Inclusive/">All Inclusive</a>
+<a href="http://www.fritidsresor.se/resor/Resa-utan-barn/">Resor utan barn</a>
+<a href="http://www.fritidsresor.se/resor/Resa-med-barn/">Resor med barn</a>
+<a href="http://www.fritidsresor.se/resor/Kombinera-resor/">Kombinationsresor</a>
+<a href="http://www.fritidsresor.se/resor/Endast-flyg-eller-hotell/">Endast flyg</a>
+<a href="http://www.fritidsresor.se/resor/kryssningar/">Kryssningar</a>
+<a href="http://www.fritidsresor.se/resor/Resa-flera-generationer/">Resor för stora sällskap</a>
+<a href="http://www.temaresor.se/">Rundresor med TEMA</a>
+<a href="http://www.fritidsresor.se/resor/Brollop/">Bröllopsresor</a>
+<a href="http://www.fritidsresor.se/resor/Langtidsresor/">Långtidsresor</a>
+<a href="http://www.fritidsresor.se/resor/Utflykter/">Utflykter</a>
+<a href="http://www.fritidsresor.se/resor/Dykresor/">Dykresor</a>
+<a href="http://www.fritidsresor.se/resor/Golfresor/">Golfresor</a>
+<a href="http://www.fritidsresor.se/hotell/halsa-och-njutning/">Spa- och fitnessresor</a>
+<a href="http://www.fritidsresor.se/Erbjudanden/Aktiva-resor/">Träningsresor</a>
+<a href="http://www.fritidsresor.se/resor/Bilresor/">Bilrundresor och hyrbil</a>
+</div></div>
+				</div>
+			</div>
+		</div>
+
+
+	</div><div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_11">
+		<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_11_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_rightContentArea_bluesites_templates_innertemplates_onecolumn_ascx_11_ita_768051_MainArea">
+
+			</div>
+		</div>
+
+
+	</div>
+</div>
+        </div>
+        <div id="mcp-bottom" class="float-container">
+            <div id="ctl00_mainRegion_bottomContentArea">
+	<div id="ctl00_mainRegion_bottomContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1">
+		<div id="ctl00_mainRegion_bottomContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_mainArea" class="one-column">
+			<div id="ctl00_mainRegion_bottomContentArea_bluesites_templates_innertemplates_onecolumn_ascx_1_ita_768043_MainArea">
+
+			</div>
+		</div>
+
+
+	</div>
+</div>
+        </div>
+    </div>
+    <div id="searching" style="display:none;">
+        <span>Vänta ett ögonblick medan vi söker...</span>
+    </div>
+
+                        
+                        <div class="clear"></div>                
+                    </div>
+                </div>
+        </div>
+        
+        
+<div id="four-column-footer">
+    
+                    <div class="row-fluid" id="footer-menu">
+                        <div class="span3 col-1">
+                            <ul class="footer-links">
+            <li><h3><a href="/att-resa-med-oss/">Att resa med oss</a></h3></li>
+            <li><a href="/att-resa-med-oss/betalning-och-biljetter/">Betalning &amp; biljetter</a></li>
+            <li><a href="/att-resa-med-oss/resevillkor/">Resevillkor</a></li>
+            <li><a href="/att-resa-med-oss/infor-resan/">Inf&#246;r resan</a></li>
+            <li><a href="/att-resa-med-oss/flyginformation/">Flyginformation</a></li>
+            <li><a href="/att-resa-med-oss/pa-resmalet/">P&#229; resm&#229;let</a></li>
+</ul>                                                           
+                        </div>
+                        <div class="span3 col-2">
+                            <ul class="footer-links">
+            <li><h3><a href="/kundservice/">Kundservice</a></h3></li>
+            <li><a href="/kundservice/hjalp-och-kontakt/">Hj&#228;lp &amp; kontakt</a></li>
+            <li><a href="/kundservice/guide-online/">Guide Online</a></li>
+</ul>                                                           
+                        </div>
+                        <div class="span3  col-3">
+                               <ul class="footer-links">
+            <li><h3><a href="/om-fritidsresor/">Om Fritidsresor</a></h3></li>
+            <li><a href="/om-fritidsresor/om-foretaget/">Om f&#246;retaget</a></li>
+            <li><a href="/om-fritidsresor/jobba-hos-oss/">Jobba hos oss</a></li>
+            <li><a href="/om-fritidsresor/press-och-media/">Press &amp; media</a></li>
+            <li><a href="/om-fritidsresor/integritet-och-sakerhet/">Integritet &amp; s&#228;kerhet</a></li>
+            <li><a href="/om-fritidsresor/reko-resande/">H&#229;llbara resor</a></li>
+</ul>                                                           
+                        </div>
+                        <div class="span3 col-4">
+                            <ul class="footer-links">
+                                <li><h3>Rekommenderat</h3></li>
+                                    <li><a href="http://www.fritidsresor.se/inspiration/Lotties-varld/">Lotties V&#228;rld - se film</a></li>
+                                    <li><a href="http://www.fritidsresor.se/inspiration/Kandis/Kandisresor/">K&#228;ndisresor</a></li>
+                                    <li><a href="/att-resa-med-oss/betalning-och-biljetter/blue-card/">Delbetala resan r&#228;ntefritt</a></li>
+                                    <li><a href="http://www.fritidsresor.se/Att-resa-med-oss/Infor-resan/Boka-tryggt-med-Fritidsresor/">Boka tryggt med resegararanti</a></li>
+                                    <li><a href="http://www.fritidsresor.se/inspiration/Fritidsresors-tavlingar/">Fritidsresors t&#228;vlingar</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="row-fluid">
+                        <div id="tui-sites">
+    <div class="inner">
+        
+        <div id="world-of-tui">
+            <img src="/Static/Images/Framework/world-of-tui.png" width="126" height="26">
+            
+        </div>
+        
+        <ul id="footer-bootom-links">
+                <li><a href="http://www.temaresor.se" target="_blank">Temaresor</a></li>
+                    <li><span class="footer-bootom-links-divider">|</span></li>        
+                <li><a href="http://www.wondercruises.com" target="_blank">WonderCruises</a></li>
+                    <li><span class="footer-bootom-links-divider">|</span></li>        
+                <li><a href="http://www.startour.no" target="_blank" title="Startour.no">Startour.no</a></li>
+                    <li><span class="footer-bootom-links-divider">|</span></li>        
+                <li><a href="http://www.startour.dk" target="_blank" title="Startour.dk">Startour.dk</a></li>
+                    <li><span class="footer-bootom-links-divider">|</span></li>        
+                <li><a href="http://www.finnmatkat.fi" target="_blank" title="Finnmatkat.fi">Finnmatkat.fi</a></li>
+        </ul>
+        
+    </div>
+</div>
+                    </div>
+                
+</div>
+
+        
+        </div>
+                
+           
+    <div id="calendar" style="display:none;">
+        <div class="head">
+            <a href="javascript:void(0)" class="close">x</a>
+            <a href="javascript:void(0)" class="next">&#187;</a>
+            <a href="javascript:void(0)" class="prev">&#171;</a>
+            <div class="list-box list-box-loading" id="month-list">
+                <input type="hidden" name="month-list" /><span>&#160;</span>
+                <dl></dl>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="content">
+            <ul class="week-days">
+                 <li class="week-number"><span>Vecka</span></li>
+                    <li><span>Mån</span></li>
+                    <li><span>Tis</span></li>
+                    <li><span>Ons</span></li>
+                    <li><span>Tors</span></li>
+                    <li><span>Fre</span></li>
+                    <li><span>Lör</span></li>
+                    <li><span>Sön</span></li>
+            </ul>
+            <div class="week-holder"><img src="/Includes/Images/Layout/HotelItem/icon-load-66x66.gif" alt="Loading..." class="w66xh66" /></div>
+            <span class="info">Laddar...</span>
+        </div>
+    </div>
+
+    <script src="/Includes/Js/BlueSites/Campaigns/Beachlife/page.js?131024" type="text/javascript"></script>
+    <script src="/Includes/Js/booking.js?131024" type="text/javascript"></script>
+    <script src="/Includes/Js/booking-panel.js?140423" type="text/javascript"></script>
+    
+    <script src="/Includes/Hybris/js/nav-responsive.js?131118" type="text/javascript"></script>
+    <script src="/Includes/Js/BlueSites/Campaigns/Beachlife/mobile.js" type="text/javascript"></script>
+    
+        
+        
+        <div id="light-box" class="light-box-layer"></div>
+        <div id="light-box-content">
+            <div class="box-control light-box light-box-item">
+                <div class="container">
+		            <div class="content"></div>
+	            </div>
+            </div>
+        </div>
+            
+            
+            
+            
+<div id="ajax-loader">Hämtar information...</div>
+
+
+<script type="text/javascript" src="/Includes/Js/jQuery/jquery-ui-1.8.7.custom.min.js"></script>
+
+
+        
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+        
+    </body>
+</html>

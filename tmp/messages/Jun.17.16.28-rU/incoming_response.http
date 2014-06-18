@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=600
+Content-Type: application/json; charset=utf-8
+Expires: Tue, 17 Jun 2014 11:08:53 GMT
+Last-Modified: Tue, 17 Jun 2014 10:58:53 GMT
+Vary: *
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Y-Booking-Node: STOSPWE04
+Date: Tue, 17 Jun 2014 10:58:53 GMT
+Connection: close
+Content-Length: 358
+
+jQuery181021105829626321793_1403002711007([{"Period":4,"Name":"Weekend/Kortvecka","Available":true},{"Period":8,"Name":"1 vecka","Available":true},{"Period":10,"Name":"10-12 dagar","Available":true},{"Period":15,"Name":"2 veckor","Available":true},{"Period":22,"Name":"3 veckor","Available":true},{"Period":29,"Name":"4 veckor eller mer","Available":true}]);

@@ -1,0 +1,11 @@
+HTTP/1.1 304 Not Modified
+Cache-Control: public, max-age=2995
+Expires: Tue, 17 Jun 2014 11:48:41 GMT
+Last-Modified: Tue, 17 Jun 2014 10:48:41 GMT
+Vary: *
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Y-Booking-Node: STOSPWE04
+Date: Tue, 17 Jun 2014 10:58:46 GMT
+Connection: close
+
