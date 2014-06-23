@@ -14,6 +14,10 @@ body.resor div#search-form
 	{
 
 	}
+	#adults1
+	{
+		clear:both;
+	}
 
 	#epl-slideshow-slides .slides_control img:first-child
 	{
@@ -64,5 +68,29 @@ body.resor div#search-form
 	div#module-campaign-page div.two-column-container div.mcp-image-box div.mcp-image a img, div#module-campaign-page div.two-column-container div.mcp-image-box div.mcp-image
 	{
 		width: 100%;
+	}
+}
+
+@media (max-width: 980px) and (min-width: 768px)
+{
+	div#page,  div#mcp-right div.two-column-left, div#module-campaign-page div.two-column-container div.mcp-image-box, div#module-campaign-page div.two-column-container div.mcp-image-box div.mcp-image,div.two-column-right,div.two-column-right, div#mcp-right div.two-column-right
+	{
+		width: auto;
+	}
+	div#mcp-right
+	{
+		width: 485px;
+	}
+	div#module-campaign-page #epl-slideshow-container,div#module-campaign-page .epl-slideshow-slides_container, div#module-campaign-page .epl-slideshow-slides_container div.slide, div#page .slides_control img:first-child
+	{
+		width: 100%;
+	}
+	div#module-campaign-page div.two-column-container div.mcp-image-box div.mcp-image img
+	{
+		width:100%;
+	}
+	.text-field.float-container .hide-for-mobile.show-for-desktop
+	{
+		display:none;
 	}
 }
